@@ -14,7 +14,7 @@ namespace Tyuiu.TelminovMS.Sprint4.Task4.V10
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы                                                *");
             Console.WriteLine("* Задание #4                                                              *");
-            Console.WriteLine("* Вариант #15                                                             *");
+            Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнил: Тельминов Максим Сергеевич | ИСТНб-26-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

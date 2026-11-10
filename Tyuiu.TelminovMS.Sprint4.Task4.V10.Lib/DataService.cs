@@ -7,7 +7,7 @@ namespace Tyuiu.TelminovMS.Sprint4.Task4.V10.Lib
     {
         public int[,] Calculate(int[,] matrix)
         {
-            int count = 0;
+            
 
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
